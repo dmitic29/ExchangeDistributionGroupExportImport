@@ -6,6 +6,7 @@ You need to have the Exchange Online Powershell module installed. You can use th
 > Install-Module -Name ExchangeOnlineManagement
 
 The Export script will spit out a CSV with columns **DisplayName**, **PrimarySmtpAddress**, and **Membership**
+
 **DisplayName** - this is self explanatory
 
 **PrimarySmtpAddress** - the email address associated with the distribution group
