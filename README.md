@@ -1,4 +1,4 @@
-# ExchangeDistributionGroupExportImport
+# Import and Export Distribution Lists to/from Exchange Online
 Powershell scripts for exporting and importing Exchange Online (Office 365) distribution groups with memberships.
 
 You need to have the Exchange Online Powershell module installed. You can use the following command to do so:
